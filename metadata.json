@@ -1,0 +1,6 @@
+{
+  "name": "Strava | Keaanna Laine Activities & DMMMSU Oval",
+  "description": "Mock Strava fitness platform featuring Keaanna Laine's activity feed, 6 walk sessions at DMMMSU Oval, interactive map views, and social feed interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
